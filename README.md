@@ -1,7 +1,7 @@
 # colas_python_deque
 Integrantes:
-
 José Andrés Jaén
+
 Docente:
 
 Maycol Marcelo Vásquez
